@@ -30,7 +30,7 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
-				  <cloudHubDeployement>
+				  <cloudHubDeployment>
 				     <uri>https://anypoint.mulesoft.com</uri>
 				     <muleVersion>4.4.0</muleVersion>
 				     <username>amir777</username>
@@ -39,7 +39,7 @@
 				     <environment>Sandbox</environment>
 				     <workerType>MICRO</workerType>
 				     <objectStoreV2>true</objectStoreV2>
-				 </cloudHubDeployement>
+				 </cloudHubDeployment>
 
 				</configuration>
 			
